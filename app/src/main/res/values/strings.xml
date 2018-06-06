@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BmobFileDemo</string>
+    <string name="tips">提示:此案例中的文件路径均为测试路径，开发者在运行前请自行替换！</string>
+</resources>
